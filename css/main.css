@@ -10,7 +10,9 @@ body{
 .wrapper{
     margin: 30px auto;
 }
-
+::placeholder{
+    color:#FCE2C9;
+}
 .gallery {
     max-width: 1024px;
     margin: 50px auto;
